@@ -1,0 +1,14 @@
+layout_spectrum: 0.2867384
+color:
+  saturation: 0.4383042
+  brandStrength: 0.1292619
+  lightness: 0.3769175
+  brandColors:
+    - '#7F889A'
+    - '#172753'
+    - '#D0D8DD'
+    - '#9BC7F2'
+    - '#FF5A70'
+  rhythmicContrast: 0.8648055
+typography_spectrum: 0.1200717
+name: Singapore
